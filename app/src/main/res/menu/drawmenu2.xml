@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/galleryOrCmera" android:title="Choisir une Image " android:icon="@drawable/g"  />
+    <item android:id="@+id/aprop" android:title="À propos de l'application" android:icon="@drawable/apropos"/>
+
+</menu>
