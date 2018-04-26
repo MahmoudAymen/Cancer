@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Melanome.iml" filepath="$PROJECT_DIR$/Melanome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cancer.iml" filepath="$PROJECT_DIR$/Cancer.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary2411/openCVLibrary2411.iml" filepath="$PROJECT_DIR$/openCVLibrary2411/openCVLibrary2411.iml" />
     </modules>
   </component>
 </project>

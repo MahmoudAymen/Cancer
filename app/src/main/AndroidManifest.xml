@@ -25,6 +25,8 @@
         </activity>
         <activity android:name=".Apropos" >
         </activity>
+        <activity android:name=".Resultat" >
+        </activity>
     </application>
 
 </manifest>
